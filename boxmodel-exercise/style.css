@@ -1,0 +1,29 @@
+*{
+    box-sizing:border-box;
+}
+.wrapper{
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+header{
+background:blue;
+height:250px;
+padding: 40px;
+}
+
+
+main {
+    
+
+}
+
+.main-content {
+
+}
+
+footer {
+background:yellowgreen;
+height:50px;
+
+}
